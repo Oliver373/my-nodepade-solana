@@ -1,2 +1,4 @@
 # my-nodepade-solana
-a demo to use solana
+a notepad demo to use solana playground
+
+playground address: https://beta.solpg.io/
